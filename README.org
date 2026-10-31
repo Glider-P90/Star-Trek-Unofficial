@@ -1,1 +1,10 @@
-* Project: Star-Trek-Unofficial
+#+AUTHOR: Pierre Étienne Charles Schebath CAZOULAT akka 
+ #+DATE: <2026-10-31 sam..>
+ #+EMAIL: pierre.schebath@lilo.org
+
+ :PROPERTIES:
+ :project-name: Star-Trek-Unofficial
+ :github-project: [[https://github.com/Glider-P90/Star-Trek-Unofficial][Retrouvez le projet sur GitHub]]
+ :project-version: 0.0
+ :END:
+
