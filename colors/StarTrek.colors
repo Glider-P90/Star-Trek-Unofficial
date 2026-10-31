@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE colorscheme>
+<colorscheme version="2.0">
+  <!-- Star Trek Unofficial KDE Plasma Color Scheme -->
+  <!-- Palette inspired by the USS Enterprise bridge -->
+
+  <!-- Backgrounds -->
+  <color name="WindowBackground" value="#060b15"/>
+  <color name="Window" value="#060b15"/>
+  <color name="Background" value="#060b15"/>
+  <color name="AlternateBackground" value="#0d1b2a"/>
+  <color name="ViewBackground" value="#0a1220"/>
+  <color name="Base" value="#0a1220"/>
+
+  <!-- Foreground / Text -->
+  <color name="Foreground" value="#c8e6ff"/>
+  <color name="Text" value="#c8e6ff"/>
+  <color name="ButtonText" value="#c8e6ff"/>
+  <color name="AlternateForeground" value="#6b8db5"/>
+  <color name="DisabledText" value="#3d5a80"/>
+  <color name="DisabledForeground" value="#3d5a80"/>
+
+  <!-- Buttons -->
+  <color name="Button" value="#162a3a"/>
+  <color name="Light" value="#4a7a9b"/>
+  <color name="Midlight" value="#2d5a7b"/>
+  <color name="Mid" value="#1a3a5a"/>
+  <color name="Dark" value="#0d1b2a"/>
+  <color name="Shadow" value="#030710"/>
+
+  <!-- Selection / Highlight -->
+  <color name="Selection" value="#0077aa"/>
+  <color name="SelectionBackground" value="#0077aa"/>
+  <color name="SelectionForeground" value="#ffffff"/>
+  <color name="HighlightedText" value="#ffffff"/>
+  <color name="Highlight" value="#0077aa"/>
+  <color name="HighlightLight" value="#00d4ff"/>
+  <color name="HighlightDark" value="#004466"/>
+
+  <!-- Links -->
+  <color name="Link" value="#00d4ff"/>
+  <color name="LinkVisited" value="#8866cc"/>
+  <color name="LinkDisabled" value="#3d5a80"/>
+
+  <!-- Tooltips -->
+  <color name="ToolTipBackground" value="#162a3a"/>
+  <color name="ToolTipForeground" value="#c8e6ff"/>
+  <color name="TooltipText" value="#c8e6ff"/>
+  <color name="TooltipBackground" value="#162a3a"/>
+
+  <!-- Decorations (focus, hover, normal) -->
+  <color name="DecorationFocus" value="#00d4ff"/>
+  <color name="DecorationHover" value="#0099cc"/>
+  <color name="DecorationNormal" value="#2d5a7b"/>
+
+  <!-- Semantic -->
+  <color name="NegativeText" value="#ff3333"/>
+  <color name="NeutralText" value="#ffb700"/>
+  <color name="PositiveText" value="#00e676"/>
+  <color name="NegativeText" value="#ff3333"/>
+  <color name="NeutralText" value="#ffb700"/>
+  <color name="PositiveText" value="#00e676"/>
+
+  <!-- View-specific -->
+  <color name="ViewText" value="#c8e6ff"/>
+  <color name="ViewBase" value="#0a1220"/>
+  <color name="AlternateBase" value="#0d1b2a"/>
+
+  <!-- Scrollbar -->
+  <color name="ScrollbarBackground" value="#0d1b2a"/>
+  <color name="ScrollbarHandle" value="#2d5a7b"/>
+  <color name="ScrollbarHandleHover" value="#00d4ff"/>
+
+  <!-- Progress / Indicators -->
+  <color name="ProgressBar" value="#00d4ff"/>
+  <color name="ProgressBackground" value="#162a3a"/>
+</colorscheme>

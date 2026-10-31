@@ -1,0 +1,10 @@
+{
+    "wallpaperPlugin" : "org.kde.image",
+    "comment" : "Star Trek - Deep Space",
+    "author" : "Glider-P90",
+    "description" : "Abstract deep space wallpaper inspired by the Star Trek universe",
+    "previewImageFile" : "preview.png",
+    "options" : {
+        "ImageFile" : "wallpaper.png"
+    }
+}
